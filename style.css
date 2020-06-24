@@ -1,0 +1,19 @@
+img {
+  z-index: -1;
+  position: absolute;
+  height: 100%;
+  repeat: no-repeat;
+  display: block;
+  float: right;
+}
+div {
+  float: left;
+  display: inline-block;
+  position: absolute;
+  text-align: right;
+  border: 0px solid;
+  width: 700px;
+  right: 0;
+  background-color: #FFFFFF;
+  z-index: 999;
+}
